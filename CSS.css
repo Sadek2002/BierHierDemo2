@@ -13,10 +13,22 @@ nav a {
 
     padding-right: 8px;
 }
+section.top{
+    width:25%;
+    float: left;
 
-table {
+
+
+}
+section.bottom{
+    width: 35%;
+    float: left;
+
+}
+h1{
+
     float: right;
-    margin-top: 80px;
-
+}
+table{
 
 }
