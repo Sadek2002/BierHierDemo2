@@ -1,0 +1,22 @@
+body{
+
+}
+nav{
+    background-color: dodgerblue;
+    padding: 20px;
+
+}
+nav a {
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+
+    padding-right: 8px;
+}
+
+table {
+    float: right;
+    margin-top: 80px;
+
+
+}
