@@ -42,6 +42,7 @@ footer, footer a {
 
 footer a {
     display: block;
+    text-decoration: none;
 }
 
 footer h4 {
@@ -55,4 +56,6 @@ section#links {
 
 section a {
     padding: 30px;
+    text-align: left;
 }
+
