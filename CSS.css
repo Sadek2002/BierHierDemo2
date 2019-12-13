@@ -1,17 +1,25 @@
 body{
 
 }
+div#wrapper{
+    margin: auto;
+    width: 1000px;
+    padding: 20px;
+}
 nav{
     background-color: dodgerblue;
     padding: 20px;
-
 }
 nav a {
     color: black;
     font-weight: bold;
     text-decoration: none;
-
     padding-right: 8px;
+}
+h1 {
+    text-align: right;
+    margin-right: 20px;
+
 }
 section.top{
     width:25%;
@@ -20,15 +28,22 @@ section.top{
 
 
 }
-section.bottom{
-    width: 35%;
+section.bottom {
+    width: 25%;
     float: left;
+}
+h3 {
+    text-align: right;
+    margin-right: 50px;
+}
+article {
+    float: left;
+    width: 50%;
+    margin-right: 30px;
 
 }
-h1{
 
+table {
     float: right;
-}
-table{
-
+    width: 45%;
 }
