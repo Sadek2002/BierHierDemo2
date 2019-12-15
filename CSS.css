@@ -1,11 +1,7 @@
 body{
 
 }
-div#wrapper{
-    margin: auto;
-    width: 1000px;
-    padding: 20px;
-}
+
 nav{
     background-color: dodgerblue;
     padding: 20px;
@@ -21,29 +17,24 @@ h1 {
     margin-right: 20px;
 
 }
-section.top{
-    width:25%;
-    float: left;
 
-
-
-}
-section.bottom {
-    width: 25%;
-    float: left;
-}
-h3 {
+h3.overzicht {
     text-align: right;
     margin-right: 50px;
 }
-article {
-    float: left;
-    width: 50%;
-    margin-right: 30px;
 
-}
 
-table {
+
+
+
+table{
     float: right;
     width: 45%;
+}
+
+section.images{
+    padding-top: 80px;
+}
+footer{
+    background-color: grey;
 }
