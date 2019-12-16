@@ -19,10 +19,12 @@ section img {
 }
 
 section article {
-    width: 33%;
-    float: right;
-    padding-right: 100px;
+    width: 20%;
+    float: left;
+    padding-right: 10px;
     padding-top: 30px;
+    padding-left: 40px;
+
 }
 
 nav h2 {
@@ -30,19 +32,18 @@ nav h2 {
 }
 
 footer {
-    padding: 31px;
+    padding: 30px;
 }
 
 footer, footer a {
     background-color: darkgray;
     color: white;
-
+    clear: both;
 
 }
 
 footer a {
     display: block;
-    text-decoration: none;
 }
 
 footer h4 {
@@ -57,9 +58,12 @@ section#links {
 section a {
     padding: 30px;
 
-    text-align: left;
 }
 
+img.picture {
+     padding-left: 50px;
+ }
 
+img.picture2 {
+    padding-left: 600px;
 }
-
