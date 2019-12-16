@@ -3,8 +3,9 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
-    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="sourceFolder" forTests="false" /
     <orderEntry type="module" module-name="h7" />
     <orderEntry type="module" module-name="h6" />
+
   </component>
 </module>
