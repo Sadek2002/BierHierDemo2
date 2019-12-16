@@ -1,0 +1,38 @@
+* {
+    font-family: Arial;
+}
+header {
+    background-color: rgb(85, 167, 231);
+    padding: 20px;
+}
+header a {
+    margin-right: 20px;
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+section article {
+    width: 33%;
+    float: right;
+    padding-right: 300px;
+}
+div.divbutton{
+    padding-bottom: 30px;
+}
+div{
+    padding-left: 30px;
+}
+footer {
+    padding: 30px;
+}
+footer, footer a {
+    background-color: darkgray;
+    color: white;
+}
+footer a {
+    display: block;
+    text-decoration: none;
+}
+footer h4 {
+    text-align: center;
+}
