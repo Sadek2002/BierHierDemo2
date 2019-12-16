@@ -1,0 +1,56 @@
+body{
+
+}
+nav{
+    background-color: dodgerblue;
+    padding: 20px;
+}
+nav a {
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+    padding-right: 8px;
+}
+
+section.visuals{
+
+}
+section.visual {
+}
+
+article.een {
+    display: inline-block;
+    width: 17%;
+    vertical-align: top;
+    padding: 10px;
+}
+article.twee {
+    display: inline-block;
+    width: 23%;
+    vertical-align: top;
+    padding: 10px;
+}
+article.drie {
+    display: inline-block;
+    width: 20%;
+    vertical-align: top;
+    padding: 10px;
+}
+article.vier {
+    display: inline-block;
+    width: 17%;
+    vertical-align: top;
+    padding: 10px;
+}
+embed{
+    float: right;
+    margin-right: 150px;
+}
+section.images{
+padding: 30px;
+
+}
+
+footer{
+    background-color: grey;
+}
