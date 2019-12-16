@@ -1,5 +1,10 @@
+div img {
+    display: inline;
+}
+
 * {
     font-family: Arial;
+
 }
 
 header {
@@ -14,23 +19,22 @@ header a {
     text-decoration: none;
 }
 
-section img {
+img {
     padding: 30px;
 }
 
-section article {
-    width: 33%;
-    float: right;
-    padding-right: 100px;
-    padding-top: 30px;
-}
 
-nav h2 {
-    padding-left: 35px;
+article {
+    display: inline-block;
+    width: 20%;
+    padding-right: 15px;
+    vertical-align: top;
+    padding-bottom: 30px;
+    padding-left: 30px;
 }
 
 footer {
-    padding: 31px;
+    padding: 30px;
 }
 
 footer, footer a {
@@ -49,17 +53,11 @@ footer h4 {
     text-align: center;
 }
 
-section#links {
-    padding: 30px;
-    display: block;
+h3 {
+    padding-left: 30px;
 }
 
-section a {
-    padding: 30px;
-
-    text-align: left;
+img.Logo {
+    float: right;
+    padding-right: 30px;
 }
-
-
-}
-
